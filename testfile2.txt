@@ -1,2 +1,0 @@
-Some testfile to see how branches work
-This should cause a merge conflict
